@@ -15,7 +15,7 @@
 * 0 of 6 - unlucky you :(
 * 1 of 6 - better than nothing!
 * 2 of 6 - it's something.
-* 3 of 6 - 1 in 57 - half way!
+* 3 of 6 - 1 in 57 - halfway!
 * 4 of 6 - 1 in 1032 - not bad.
 * 5 of 6 - 1 in 54 201 - almost!
 * 6 of 6 - 1 in 13 983 816 - lucky you!
